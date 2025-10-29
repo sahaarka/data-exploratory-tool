@@ -109,15 +109,6 @@ sudo apt-get install python3-tk
 
 Using a virtual environment (venv or conda) is strongly recommended to avoid conflicts with system Python.
 
-🗂️ Project Structure (Inside the Extracted Zip)
-data_discovery_tool/
-│
-|├── app.py
-|├── cli.py
-|├── data_tool.py
-|├── __init__.py
-├── setup.py
-
 🔧 Troubleshooting & Tips
 Issue	Possible Fix
 Port 8501 already in use	Run with another port:
