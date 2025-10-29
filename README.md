@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # data-exploratory-tool
 A readymade data analysis tool for data exploration/discovery use case
 =======
@@ -202,5 +201,4 @@ Data Engineering Professional | Accenture
         data-discovery-tool
         ```
 
-## Project Structure (Inside the Extracted Zip)
->>>>>>> 152832f... initial version of the data exploratory tool
+#* python -m build to get whl file *#
