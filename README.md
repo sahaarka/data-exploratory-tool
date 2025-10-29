@@ -201,4 +201,4 @@ Data Engineering Professional | Accenture
         data-discovery-tool
         ```
 
-#* python -m build to get whl file *#
+* python -m build to get whl file *
